@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hello, folks! <img src="https://github.com/yatinkoul/yatinkoul/blob/c098e89316f6258929ae91d6b026bebf8a608fb5/wave.gif" width="30px">
 <!--
 **yatinkoul/yatinkoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
