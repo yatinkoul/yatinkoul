@@ -1,4 +1,6 @@
 # Hello, folks! <img src="https://github.com/yatinkoul/yatinkoul/blob/c098e89316f6258929ae91d6b026bebf8a608fb5/wave.gif" width="30px">
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yatinkoul&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats.vercel.app/api/?username=yatinkoul&count_private=true&theme=tokyonight&showicons=true) 
 <!--
 **yatinkoul/yatinkoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
